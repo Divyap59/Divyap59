@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyap59
-- 👀 I’m interested in Swift, SwiftUI and Objective C.
-- 🌱 I’m currently learning Kotlin, Dart.
+- 👀 I’m interested in Kotlin, Dart, Swift, SwiftUI and Objective C.
+- 🌱 I’m currently learning advanced App Development.
 - 💞️ I’m looking to collaborate on iOS Development open source projects
 
 
